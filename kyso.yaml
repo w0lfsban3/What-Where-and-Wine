@@ -1,0 +1,3 @@
+title: "What, Where and Wine"
+desciption: "Determining wine characteristics and region of origin of the Wine Data Set; and creating a classifier using k-Nearest Neighbor algorithm"
+main: "What, Where and Wine.ipynb"
